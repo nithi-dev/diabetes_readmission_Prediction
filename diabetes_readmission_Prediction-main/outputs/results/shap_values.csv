@@ -1,0 +1,16 @@
+feature,mean_shap
+discharge_disposition_id,0.24644227
+number_inpatient,0.13335183
+time_in_hospital,0.08219696
+age_numeric,0.053321037
+diag_1_Other,0.052817404
+number_diagnoses,0.04491781
+diabetes_med_Yes,0.036782816
+change_No,0.03624614
+insulin_No,0.02688693
+metformin_No,0.02680665
+diag_2_Respiratory,0.02417618
+diag_2_Diabetes,0.022654299
+diag_3_Diabetes,0.02250821
+admission_type_id,0.020806713
+diag_2_Neoplasms,0.02043247

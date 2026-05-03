@@ -1,0 +1,8 @@
+col,n_missing,pct_missing
+weight,98569,96.9
+medical_specialty,49949,49.1
+payer_code,40256,39.6
+race,2273,2.2
+diag_3,1423,1.4
+diag_2,358,0.4
+diag_1,21,0

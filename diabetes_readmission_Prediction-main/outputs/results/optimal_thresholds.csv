@@ -1,0 +1,4 @@
+model,threshold_default,threshold_f1_opt,threshold_recall70
+XGBoost,0.5,0.16,0.09
+LightGBM,0.5,0.15000000000000002,0.08
+Ensemble,0.5,0.14,0.11

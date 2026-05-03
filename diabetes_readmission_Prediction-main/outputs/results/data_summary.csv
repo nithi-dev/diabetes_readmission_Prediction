@@ -1,0 +1,8 @@
+metric,value,unit
+total_rows,101766,count
+unique_patients,71518,count
+repeated_patients,16773,count
+deceased_hospice,2423,count
+pct_readmit_lt30,11.2,pct
+pct_readmit_gt30,34.9,pct
+pct_not_readmit,53.9,pct
